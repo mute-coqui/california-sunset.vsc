@@ -1,0 +1,21 @@
+{
+  "name": "california-sunset",
+  "displayName": "California Sunset",
+  "description": "A nice, relaxing theme that's not too light, not too light. It's that perfect time of day when the sunsets and the temperature is just right.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "California Sunset",
+        "uiTheme": "vs-dark",
+        "path": "./themes/California Sunset-color-theme.json"
+      }
+    ]
+  }
+}
